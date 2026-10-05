@@ -22,4 +22,6 @@ The app checks for new versions on its own. When one is ready it shows a banner;
 
 Your data stays on your PC (`%APPDATA%\Boss Tracker`).
 
+Boss Tracker sends an anonymous install count (a random ID and the app version, at most once a day) so I know how many people use it. Nothing about you, your PC or your characters is sent.
+
 This repository only hosts installers; the source code is private.
