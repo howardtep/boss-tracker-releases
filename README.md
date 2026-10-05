@@ -4,7 +4,7 @@ A Windows desktop app for tracking MapleStory (GMS Heroic) boss clears and weekl
 
 ## Download
 
-Get the latest installer from the [Releases page](../../releases/latest): download `Boss.Tracker.Setup.<version>.exe` and run it.
+Get the latest installer from the [Releases page](../../releases/latest): download `Boss-Tracker-Setup-<version>.exe` and run it.
 
 The app isn't code-signed, so Windows SmartScreen may show "Windows protected your PC" the first time. Click **More info → Run anyway**.
 
